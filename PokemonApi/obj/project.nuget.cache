@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zxi10p9d3rHWhNkugwnx5VkBnJO+CfOAzyvJF9qSwO8hW+gOC6GbZQZ6EXZvKDPCpAQXG3nLjFdtByLbirPLg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\cmedina\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Users\\cmedina\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Users\\cmedina\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "D:\\Users\\cmedina\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "D:\\Users\\cmedina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "D:\\Users\\cmedina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
