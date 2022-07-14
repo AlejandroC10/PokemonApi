@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsvVKSGo48xa18wRMggGPZCigu5Bb+sZhXA9PHe/MFM6EhR9zFje6rnmn/Yz/bg0v22USBGS1WY0HCFve0rbnQ==",
+  "dgSpecHash": "MEJboeWbJqVejMaM8yZ9XeQZVz64mrHxAe4s1eUYPLGiflm4bRjCpobfBBCyVqx7+JRUCgvrvaQcfh9aIQ81OA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Users\\acabello\\PokemonApi\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
