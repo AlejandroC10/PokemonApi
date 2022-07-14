@@ -34,6 +34,7 @@ public class ApplicationShould
             "Grass",
             "Poison"
         };
+        
         var fakePokemon = new Pokemon(1,fakeNames,fakeTypes,fakeStats);
         
         expectedPokemon.Should().BeEquivalentTo(fakePokemon);
