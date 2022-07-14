@@ -8,24 +8,15 @@ public class Pokedex
     {
         var fakeNames = new Dictionary<string, string>
         {
-            {"english", "Bulbasaur"},
-            {"japanese", "フシギダネ"},
-            {"chinese", "妙蛙种子"},
-            {"french", "Bulbizarre"}
+            {"english", "Bulbasaur"}
         };
         var fakeStats = new Dictionary<string, int>
         {
-            {"HP", 45},
-            {"Attack", 49},
-            {"Defense", 49},
-            {"Sp. Attack", 65},
-            {"Sp. Defense", 65},
-            {"Speed", 45}
+            {"HP", 45}
         };
         var fakeTypes = new List<string>
         {
             "Grass",
-            "Poison"
         };
         
          
