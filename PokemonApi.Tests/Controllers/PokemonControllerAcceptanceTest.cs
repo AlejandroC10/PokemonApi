@@ -48,6 +48,6 @@ public class PokemonControllerAcceptanceTestShould: IClassFixture<CustomWepAppli
         };
         var fakePokemon = new Pokemon(1,fakeNames,fakeTypes,fakeStats);
 
-        foundedPokemon.Should().Equals(fakePokemon);
+        foundedPokemon.Should().BeEquivalentTo(fakePokemon);
     }
 }

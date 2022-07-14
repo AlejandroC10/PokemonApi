@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3952ba41_002D6881_002D430c_002D9dd1_002Df1829002cf54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReturnPokemon" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemon&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8EEAE87A-712D-4641-8F72-826187A0F142::net6.0::PokemonApiTests.Controllers.PokemonControllerAcceptanceTestShould.FindPokemonById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
