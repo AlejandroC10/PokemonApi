@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\Json\\Json.csproj",
-      "projectName": "Json",
-      "projectPath": "D:\\Users\\acabello\\PokemonApi\\Json\\Json.csproj",
+      "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\Derulo\\Derulo.csproj",
+      "projectName": "Derulo",
+      "projectPath": "D:\\Users\\acabello\\PokemonApi\\Derulo\\Derulo.csproj",
       "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\acabello\\PokemonApi\\Json\\obj\\",
+      "outputPath": "D:\\Users\\acabello\\PokemonApi\\Derulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

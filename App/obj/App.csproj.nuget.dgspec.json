@@ -151,17 +151,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\Users\\acabello\\PokemonApi\\App\\App.csproj": {
-                "projectPath": "D:\\Users\\acabello\\PokemonApi\\App\\App.csproj"
-              },
-              "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj"
-              },
-              "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj": {
-                "projectPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

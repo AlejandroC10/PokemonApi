@@ -2289,11 +2289,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "App": "1.0.0",
-          "Domain": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Testing": "6.0.6",
           "Microsoft.NET.Test.Sdk": "16.11.0",
-          "PokemonApi": "1.0.0",
           "xunit": "2.4.1"
         },
         "compile": {
