@@ -28,3 +28,5 @@ D:\Users\acabello\PokemonApi\Application\obj\Debug\net6.0\Application.dll
 D:\Users\acabello\PokemonApi\Application\obj\Debug\net6.0\refint\Application.dll
 D:\Users\acabello\PokemonApi\Application\obj\Debug\net6.0\Application.pdb
 D:\Users\acabello\PokemonApi\Application\obj\Debug\net6.0\ref\Application.dll
+D:\Users\cmedina\RiderProjects\HazteConTodos\Application\bin\Debug\net6.0\JsonData.dll
+D:\Users\cmedina\RiderProjects\HazteConTodos\Application\bin\Debug\net6.0\JsonData.pdb

@@ -224,3 +224,5 @@ D:\Users\acabello\PokemonApi\Application.Tests\obj\Debug\net6.0\refint\Applicati
 D:\Users\acabello\PokemonApi\Application.Tests\obj\Debug\net6.0\Application.Tests.pdb
 D:\Users\acabello\PokemonApi\Application.Tests\obj\Debug\net6.0\Application.Tests.genruntimeconfig.cache
 D:\Users\acabello\PokemonApi\Application.Tests\obj\Debug\net6.0\ref\Application.Tests.dll
+D:\Users\cmedina\RiderProjects\HazteConTodos\Application.Tests\bin\Debug\net6.0\JsonData.dll
+D:\Users\cmedina\RiderProjects\HazteConTodos\Application.Tests\bin\Debug\net6.0\JsonData.pdb

@@ -46,4 +46,36 @@ public class ApplicationShould
 
         expectedPokemon.Should().BeEquivalentTo(fakePokemon);
     }
+    
+    [Fact]
+    public void ReturnPokemonWithId3()
+    {
+        var pokedex = new Pokedex();
+        var expectedPokemon = pokedex.FindPokemonById(3);
+
+        var fakeNames = new Dictionary<string, string>
+        {
+            {"english", "Venusaur"},
+            {"japanese", "フシギバナ"},
+            {"chinese", "妙蛙花"},
+            {"french", "Florizarre"}
+        };
+        var fakeStats = new Dictionary<string, int>
+        {
+            {"HP", 80},
+            {"Attack", 82},
+            {"Defense", 83},
+            {"Sp. Attack", 100},
+            {"Sp. Defense", 100},
+            {"Speed", 80}
+        };
+        var fakeTypes = new List<string>
+        {
+            "Grass",
+            "Poison"
+        };
+        var fakePokemon = new Pokemon(3,fakeNames,fakeTypes,fakeStats);
+
+        expectedPokemon.Should().BeEquivalentTo(fakePokemon);
+    }
 }

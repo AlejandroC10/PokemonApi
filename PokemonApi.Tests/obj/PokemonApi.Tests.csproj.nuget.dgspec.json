@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\acabello\\PokemonApi\\PokemonApi.Tests\\PokemonApi.Tests.csproj": {}
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi.Tests\\PokemonApi.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj": {
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj",
-        "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\acabello\\PokemonApi\\Domain\\obj\\",
+        "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\Domain.csproj",
+        "packagesPath": "D:\\Users\\cmedina\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\acabello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\cmedina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,20 +61,20 @@
         }
       }
     },
-    "D:\\Users\\acabello\\PokemonApi\\PokemonApi.Tests\\PokemonApi.Tests.csproj": {
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi.Tests\\PokemonApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\PokemonApi.Tests\\PokemonApi.Tests.csproj",
+        "projectUniqueName": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi.Tests\\PokemonApi.Tests.csproj",
         "projectName": "PokemonApi.Tests",
-        "projectPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi.Tests\\PokemonApi.Tests.csproj",
-        "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi.Tests\\obj\\",
+        "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi.Tests\\PokemonApi.Tests.csproj",
+        "packagesPath": "D:\\Users\\cmedina\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\acabello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\cmedina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,11 +88,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Users\\acabello\\PokemonApi\\Domain\\Domain.csproj"
+              "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain\\Domain.csproj"
               },
-              "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj": {
-                "projectPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj"
+              "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj": {
+                "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj"
               }
             }
           }
@@ -158,20 +158,20 @@
         }
       }
     },
-    "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj": {
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj",
+        "projectUniqueName": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj",
         "projectName": "PokemonApi",
-        "projectPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\PokemonApi.csproj",
-        "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\acabello\\PokemonApi\\PokemonApi\\obj\\",
+        "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\PokemonApi.csproj",
+        "packagesPath": "D:\\Users\\cmedina\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\acabello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\cmedina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

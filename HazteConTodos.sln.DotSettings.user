@@ -3,6 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemon&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::8EEAE87A-712D-4641-8F72-826187A0F142::net6.0::PokemonApiTests.Controllers.PokemonControllerAcceptanceTestShould.FindPokemonById&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemonWithId2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemonWithId3&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

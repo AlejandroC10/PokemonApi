@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\acabello\\PokemonApi\\Domain.Tests\\Domain.Tests.csproj": {}
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain.Tests\\Domain.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Users\\acabello\\PokemonApi\\Domain.Tests\\Domain.Tests.csproj": {
+    "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain.Tests\\Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\Domain.Tests\\Domain.Tests.csproj",
+        "projectUniqueName": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain.Tests\\Domain.Tests.csproj",
         "projectName": "Domain.Tests",
-        "projectPath": "D:\\Users\\acabello\\PokemonApi\\Domain.Tests\\Domain.Tests.csproj",
-        "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\acabello\\PokemonApi\\Domain.Tests\\obj\\",
+        "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain.Tests\\Domain.Tests.csproj",
+        "packagesPath": "D:\\Users\\cmedina\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\acabello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\cmedina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

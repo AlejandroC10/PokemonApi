@@ -1760,7 +1760,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "JsonData": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -1777,6 +1778,19 @@
         },
         "runtime": {
           "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "JsonData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JsonData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JsonData.dll": {}
         }
       }
     }
@@ -6189,6 +6203,11 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "JsonData/1.0.0": {
+      "type": "project",
+      "path": "../JsonData/JsonData.csproj",
+      "msbuildProject": "../JsonData/JsonData.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6203,23 +6222,23 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\acabello\\.nuget\\packages\\": {},
+    "D:\\Users\\cmedina\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\acabello\\PokemonApi\\Application.Tests\\Application.Tests.csproj",
+      "projectUniqueName": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application.Tests\\Application.Tests.csproj",
       "projectName": "Application.Tests",
-      "projectPath": "D:\\Users\\acabello\\PokemonApi\\Application.Tests\\Application.Tests.csproj",
-      "packagesPath": "D:\\Users\\acabello\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\acabello\\PokemonApi\\Application.Tests\\obj\\",
+      "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application.Tests\\Application.Tests.csproj",
+      "packagesPath": "D:\\Users\\cmedina\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\Users\\acabello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\cmedina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6233,8 +6252,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Users\\acabello\\PokemonApi\\Application\\Application.csproj": {
-              "projectPath": "D:\\Users\\acabello\\PokemonApi\\Application\\Application.csproj"
+            "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application\\Application.csproj": {
+              "projectPath": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application\\Application.csproj"
             }
           }
         }
