@@ -122,4 +122,13 @@ public class PokedexShould
 
         actualPokemon.Count.Should().Be(total);
     }
+    
+    [Fact]
+    public void ReturnAllPokemons()
+    {
+        var pokedex = new Pokedex();
+        var actualPokemon = pokedex.GetAll();
+
+        actualPokemon.Count.Should().Be(809);
+    }
 }

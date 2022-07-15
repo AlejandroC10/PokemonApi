@@ -38,4 +38,9 @@ public class Pokedex
         
         return matchPokemon;
     }
+
+    public List<Pokemon> GetAll()
+    {
+        return null;
+    }
 }
