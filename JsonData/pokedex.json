@@ -10,7 +10,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 49,
       "Defense": 49,
@@ -31,7 +31,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 62,
       "Defense": 63,
@@ -52,7 +52,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 82,
       "Defense": 83,
@@ -72,7 +72,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
@@ -92,7 +92,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
@@ -113,7 +113,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
@@ -133,7 +133,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 48,
       "Defense": 65,
@@ -153,7 +153,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 63,
       "Defense": 80,
@@ -173,7 +173,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 79,
       "Attack": 83,
       "Defense": 100,
@@ -193,7 +193,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 30,
       "Defense": 35,
@@ -213,7 +213,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 20,
       "Defense": 55,
@@ -234,7 +234,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 45,
       "Defense": 50,
@@ -255,7 +255,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
@@ -276,7 +276,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 25,
       "Defense": 50,
@@ -297,7 +297,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 90,
       "Defense": 40,
@@ -318,7 +318,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
@@ -339,7 +339,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 63,
       "Attack": 60,
       "Defense": 55,
@@ -360,7 +360,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 83,
       "Attack": 80,
       "Defense": 75,
@@ -380,7 +380,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 56,
       "Defense": 35,
@@ -400,7 +400,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 81,
       "Defense": 60,
@@ -421,7 +421,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 60,
       "Defense": 30,
@@ -442,7 +442,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 90,
       "Defense": 65,
@@ -462,7 +462,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 60,
       "Defense": 44,
@@ -482,7 +482,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 95,
       "Defense": 69,
@@ -502,7 +502,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 55,
       "Defense": 40,
@@ -522,7 +522,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 90,
       "Defense": 55,
@@ -542,7 +542,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 75,
       "Defense": 85,
@@ -562,7 +562,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 100,
       "Defense": 110,
@@ -582,7 +582,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 47,
       "Defense": 52,
@@ -602,7 +602,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 62,
       "Defense": 67,
@@ -623,7 +623,7 @@
       "Poison",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 92,
       "Defense": 87,
@@ -643,7 +643,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 46,
       "Attack": 57,
       "Defense": 40,
@@ -663,7 +663,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 61,
       "Attack": 72,
       "Defense": 57,
@@ -684,7 +684,7 @@
       "Poison",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 81,
       "Attack": 102,
       "Defense": 77,
@@ -704,7 +704,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 45,
       "Defense": 48,
@@ -724,7 +724,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 70,
       "Defense": 73,
@@ -744,7 +744,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 41,
       "Defense": 40,
@@ -764,7 +764,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 73,
       "Attack": 76,
       "Defense": 75,
@@ -785,7 +785,7 @@
       "Normal",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 115,
       "Attack": 45,
       "Defense": 20,
@@ -806,7 +806,7 @@
       "Normal",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 140,
       "Attack": 70,
       "Defense": 45,
@@ -827,7 +827,7 @@
       "Poison",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
@@ -848,7 +848,7 @@
       "Poison",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 80,
       "Defense": 70,
@@ -869,7 +869,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 50,
       "Defense": 55,
@@ -890,7 +890,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 65,
       "Defense": 70,
@@ -911,7 +911,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 80,
       "Defense": 85,
@@ -932,7 +932,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 70,
       "Defense": 55,
@@ -953,7 +953,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 95,
       "Defense": 80,
@@ -974,7 +974,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 55,
       "Defense": 50,
@@ -995,7 +995,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 65,
       "Defense": 60,
@@ -1015,7 +1015,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 10,
       "Attack": 55,
       "Defense": 25,
@@ -1035,7 +1035,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 100,
       "Defense": 50,
@@ -1055,7 +1055,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
@@ -1075,7 +1075,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 70,
       "Defense": 60,
@@ -1095,7 +1095,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 52,
       "Defense": 48,
@@ -1115,7 +1115,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 82,
       "Defense": 78,
@@ -1135,7 +1135,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 80,
       "Defense": 35,
@@ -1155,7 +1155,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 105,
       "Defense": 60,
@@ -1175,7 +1175,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 70,
       "Defense": 45,
@@ -1195,7 +1195,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 110,
       "Defense": 80,
@@ -1215,7 +1215,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 50,
       "Defense": 40,
@@ -1235,7 +1235,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 65,
       "Defense": 65,
@@ -1256,7 +1256,7 @@
       "Water",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 95,
       "Defense": 95,
@@ -1276,7 +1276,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 25,
       "Attack": 20,
       "Defense": 15,
@@ -1296,7 +1296,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
@@ -1316,7 +1316,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 50,
       "Defense": 45,
@@ -1336,7 +1336,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 80,
       "Defense": 50,
@@ -1356,7 +1356,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 100,
       "Defense": 70,
@@ -1376,7 +1376,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 130,
       "Defense": 80,
@@ -1397,7 +1397,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 75,
       "Defense": 35,
@@ -1418,7 +1418,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 90,
       "Defense": 50,
@@ -1439,7 +1439,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 105,
       "Defense": 65,
@@ -1460,7 +1460,7 @@
       "Water",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 40,
       "Defense": 35,
@@ -1481,7 +1481,7 @@
       "Water",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 70,
       "Defense": 65,
@@ -1502,7 +1502,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 80,
       "Defense": 100,
@@ -1523,7 +1523,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 95,
       "Defense": 115,
@@ -1544,7 +1544,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 120,
       "Defense": 130,
@@ -1564,7 +1564,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 85,
       "Defense": 55,
@@ -1584,7 +1584,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 100,
       "Defense": 70,
@@ -1605,7 +1605,7 @@
       "Water",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 65,
       "Defense": 65,
@@ -1626,7 +1626,7 @@
       "Water",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 75,
       "Defense": 110,
@@ -1647,7 +1647,7 @@
       "Electric",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 25,
       "Attack": 35,
       "Defense": 70,
@@ -1668,7 +1668,7 @@
       "Electric",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 60,
       "Defense": 95,
@@ -1689,7 +1689,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 52,
       "Attack": 90,
       "Defense": 55,
@@ -1710,7 +1710,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 85,
       "Defense": 45,
@@ -1731,7 +1731,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 110,
       "Defense": 70,
@@ -1751,7 +1751,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 45,
       "Defense": 55,
@@ -1772,7 +1772,7 @@
       "Water",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 70,
       "Defense": 80,
@@ -1792,7 +1792,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 80,
       "Defense": 50,
@@ -1812,7 +1812,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 105,
       "Defense": 75,
@@ -1832,7 +1832,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 65,
       "Defense": 100,
@@ -1853,7 +1853,7 @@
       "Water",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 95,
       "Defense": 180,
@@ -1874,7 +1874,7 @@
       "Ghost",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 35,
       "Defense": 30,
@@ -1895,7 +1895,7 @@
       "Ghost",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 50,
       "Defense": 45,
@@ -1916,7 +1916,7 @@
       "Ghost",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 65,
       "Defense": 60,
@@ -1937,7 +1937,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 45,
       "Defense": 160,
@@ -1957,7 +1957,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 48,
       "Defense": 45,
@@ -1977,7 +1977,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 73,
       "Defense": 70,
@@ -1997,7 +1997,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 105,
       "Defense": 90,
@@ -2017,7 +2017,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 130,
       "Defense": 115,
@@ -2037,7 +2037,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 50,
@@ -2057,7 +2057,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 70,
@@ -2078,7 +2078,7 @@
       "Grass",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 40,
       "Defense": 80,
@@ -2099,7 +2099,7 @@
       "Grass",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 95,
       "Defense": 85,
@@ -2119,7 +2119,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 95,
@@ -2139,7 +2139,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 80,
       "Defense": 110,
@@ -2159,7 +2159,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 120,
       "Defense": 53,
@@ -2179,7 +2179,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 105,
       "Defense": 79,
@@ -2199,7 +2199,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 55,
       "Defense": 75,
@@ -2219,7 +2219,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 65,
       "Defense": 95,
@@ -2239,7 +2239,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 90,
       "Defense": 120,
@@ -2260,7 +2260,7 @@
       "Ground",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 85,
       "Defense": 95,
@@ -2281,7 +2281,7 @@
       "Ground",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 130,
       "Defense": 120,
@@ -2301,7 +2301,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 250,
       "Attack": 5,
       "Defense": 5,
@@ -2321,7 +2321,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 55,
       "Defense": 115,
@@ -2341,7 +2341,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 95,
       "Defense": 80,
@@ -2361,7 +2361,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 40,
       "Defense": 70,
@@ -2381,7 +2381,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 65,
       "Defense": 95,
@@ -2401,7 +2401,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 67,
       "Defense": 60,
@@ -2421,7 +2421,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 92,
       "Defense": 65,
@@ -2441,7 +2441,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 45,
       "Defense": 55,
@@ -2462,7 +2462,7 @@
       "Water",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 75,
       "Defense": 85,
@@ -2483,7 +2483,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 65,
@@ -2504,7 +2504,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 110,
       "Defense": 80,
@@ -2525,7 +2525,7 @@
       "Ice",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 50,
       "Defense": 35,
@@ -2545,7 +2545,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 83,
       "Defense": 57,
@@ -2565,7 +2565,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 95,
       "Defense": 57,
@@ -2585,7 +2585,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 125,
       "Defense": 100,
@@ -2605,7 +2605,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 100,
       "Defense": 95,
@@ -2625,7 +2625,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 10,
       "Defense": 55,
@@ -2646,7 +2646,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 125,
       "Defense": 79,
@@ -2667,7 +2667,7 @@
       "Water",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 130,
       "Attack": 85,
       "Defense": 80,
@@ -2687,7 +2687,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 48,
       "Attack": 48,
       "Defense": 48,
@@ -2707,7 +2707,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 55,
       "Defense": 50,
@@ -2727,7 +2727,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 130,
       "Attack": 65,
       "Defense": 60,
@@ -2747,7 +2747,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 65,
       "Defense": 60,
@@ -2767,7 +2767,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 130,
       "Defense": 60,
@@ -2787,7 +2787,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 60,
       "Defense": 70,
@@ -2808,7 +2808,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 40,
       "Defense": 100,
@@ -2829,7 +2829,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 60,
       "Defense": 125,
@@ -2850,7 +2850,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 80,
       "Defense": 90,
@@ -2871,7 +2871,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 115,
       "Defense": 105,
@@ -2892,7 +2892,7 @@
       "Rock",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 105,
       "Defense": 65,
@@ -2912,7 +2912,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 160,
       "Attack": 110,
       "Defense": 65,
@@ -2933,7 +2933,7 @@
       "Ice",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 85,
       "Defense": 100,
@@ -2954,7 +2954,7 @@
       "Electric",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 90,
       "Defense": 85,
@@ -2975,7 +2975,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 100,
       "Defense": 90,
@@ -2995,7 +2995,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 41,
       "Attack": 64,
       "Defense": 45,
@@ -3015,7 +3015,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 61,
       "Attack": 84,
       "Defense": 65,
@@ -3036,7 +3036,7 @@
       "Dragon",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 134,
       "Defense": 95,
@@ -3056,7 +3056,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 106,
       "Attack": 110,
       "Defense": 90,
@@ -3076,7 +3076,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -3096,7 +3096,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 49,
       "Defense": 65,
@@ -3116,7 +3116,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 62,
       "Defense": 80,
@@ -3136,7 +3136,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 82,
       "Defense": 100,
@@ -3156,7 +3156,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
@@ -3176,7 +3176,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
@@ -3196,7 +3196,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
@@ -3216,7 +3216,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 65,
       "Defense": 64,
@@ -3236,7 +3236,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 80,
       "Defense": 80,
@@ -3256,7 +3256,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 105,
       "Defense": 100,
@@ -3276,7 +3276,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 46,
       "Defense": 34,
@@ -3296,7 +3296,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 76,
       "Defense": 64,
@@ -3317,7 +3317,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 30,
       "Defense": 30,
@@ -3338,7 +3338,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 50,
       "Defense": 50,
@@ -3359,7 +3359,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 20,
       "Defense": 30,
@@ -3380,7 +3380,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 35,
       "Defense": 50,
@@ -3401,7 +3401,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 60,
       "Defense": 40,
@@ -3422,7 +3422,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
@@ -3443,7 +3443,7 @@
       "Poison",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 90,
       "Defense": 80,
@@ -3464,7 +3464,7 @@
       "Water",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 38,
       "Defense": 38,
@@ -3485,7 +3485,7 @@
       "Water",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 125,
       "Attack": 58,
       "Defense": 58,
@@ -3505,7 +3505,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 40,
       "Defense": 15,
@@ -3525,7 +3525,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 25,
       "Defense": 28,
@@ -3546,7 +3546,7 @@
       "Normal",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 30,
       "Defense": 15,
@@ -3566,7 +3566,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 20,
       "Defense": 65,
@@ -3587,7 +3587,7 @@
       "Fairy",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 40,
       "Defense": 85,
@@ -3608,7 +3608,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 50,
       "Defense": 45,
@@ -3629,7 +3629,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 75,
       "Defense": 70,
@@ -3649,7 +3649,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 40,
       "Defense": 40,
@@ -3669,7 +3669,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 55,
       "Defense": 55,
@@ -3689,7 +3689,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 75,
       "Defense": 85,
@@ -3709,7 +3709,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 80,
       "Defense": 95,
@@ -3730,7 +3730,7 @@
       "Water",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 20,
       "Defense": 50,
@@ -3751,7 +3751,7 @@
       "Water",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 50,
       "Defense": 80,
@@ -3771,7 +3771,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 100,
       "Defense": 115,
@@ -3791,7 +3791,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 75,
       "Defense": 75,
@@ -3812,7 +3812,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 35,
       "Defense": 40,
@@ -3833,7 +3833,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 45,
       "Defense": 50,
@@ -3854,7 +3854,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 55,
       "Defense": 70,
@@ -3874,7 +3874,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 70,
       "Defense": 55,
@@ -3894,7 +3894,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 30,
       "Defense": 30,
@@ -3914,7 +3914,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 75,
       "Defense": 55,
@@ -3935,7 +3935,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 65,
       "Defense": 45,
@@ -3956,7 +3956,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 45,
       "Defense": 45,
@@ -3977,7 +3977,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 85,
       "Defense": 85,
@@ -3997,7 +3997,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 65,
       "Defense": 60,
@@ -4017,7 +4017,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 65,
       "Defense": 110,
@@ -4038,7 +4038,7 @@
       "Dark",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 42,
@@ -4059,7 +4059,7 @@
       "Water",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 75,
       "Defense": 80,
@@ -4079,7 +4079,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
@@ -4099,7 +4099,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 48,
       "Attack": 72,
       "Defense": 48,
@@ -4119,7 +4119,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 190,
       "Attack": 33,
       "Defense": 58,
@@ -4140,7 +4140,7 @@
       "Normal",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 80,
       "Defense": 65,
@@ -4160,7 +4160,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 65,
       "Defense": 90,
@@ -4181,7 +4181,7 @@
       "Bug",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 90,
       "Defense": 140,
@@ -4201,7 +4201,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 70,
       "Defense": 70,
@@ -4222,7 +4222,7 @@
       "Ground",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 75,
       "Defense": 105,
@@ -4243,7 +4243,7 @@
       "Steel",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 85,
       "Defense": 200,
@@ -4263,7 +4263,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
@@ -4283,7 +4283,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 120,
       "Defense": 75,
@@ -4304,7 +4304,7 @@
       "Water",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 95,
       "Defense": 85,
@@ -4325,7 +4325,7 @@
       "Bug",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 130,
       "Defense": 100,
@@ -4346,7 +4346,7 @@
       "Bug",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 10,
       "Defense": 230,
@@ -4367,7 +4367,7 @@
       "Bug",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 125,
       "Defense": 75,
@@ -4388,7 +4388,7 @@
       "Dark",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 95,
       "Defense": 55,
@@ -4408,7 +4408,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
@@ -4428,7 +4428,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 130,
       "Defense": 75,
@@ -4448,7 +4448,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 40,
       "Defense": 40,
@@ -4469,7 +4469,7 @@
       "Fire",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 120,
@@ -4490,7 +4490,7 @@
       "Ice",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
@@ -4511,7 +4511,7 @@
       "Ice",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 80,
@@ -4532,7 +4532,7 @@
       "Water",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 55,
       "Defense": 95,
@@ -4552,7 +4552,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 65,
       "Defense": 35,
@@ -4572,7 +4572,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 105,
       "Defense": 75,
@@ -4593,7 +4593,7 @@
       "Ice",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 55,
       "Defense": 45,
@@ -4614,7 +4614,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 40,
       "Defense": 70,
@@ -4635,7 +4635,7 @@
       "Steel",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 80,
       "Defense": 140,
@@ -4656,7 +4656,7 @@
       "Dark",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 60,
       "Defense": 30,
@@ -4677,7 +4677,7 @@
       "Dark",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 90,
       "Defense": 50,
@@ -4698,7 +4698,7 @@
       "Water",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 95,
       "Defense": 95,
@@ -4718,7 +4718,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 60,
       "Defense": 60,
@@ -4738,7 +4738,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 120,
       "Defense": 120,
@@ -4758,7 +4758,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 80,
       "Defense": 90,
@@ -4778,7 +4778,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 73,
       "Attack": 95,
       "Defense": 62,
@@ -4798,7 +4798,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 20,
       "Defense": 35,
@@ -4818,7 +4818,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 35,
       "Defense": 35,
@@ -4838,7 +4838,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 95,
       "Defense": 95,
@@ -4859,7 +4859,7 @@
       "Ice",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 30,
       "Defense": 15,
@@ -4879,7 +4879,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 63,
       "Defense": 37,
@@ -4899,7 +4899,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 75,
       "Defense": 37,
@@ -4919,7 +4919,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 80,
       "Defense": 105,
@@ -4939,7 +4939,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 255,
       "Attack": 10,
       "Defense": 10,
@@ -4959,7 +4959,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 85,
       "Defense": 75,
@@ -4979,7 +4979,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 115,
       "Attack": 115,
       "Defense": 85,
@@ -4999,7 +4999,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 75,
       "Defense": 115,
@@ -5020,7 +5020,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 64,
       "Defense": 50,
@@ -5041,7 +5041,7 @@
       "Rock",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 84,
       "Defense": 70,
@@ -5062,7 +5062,7 @@
       "Rock",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 134,
       "Defense": 110,
@@ -5083,7 +5083,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 106,
       "Attack": 90,
       "Defense": 130,
@@ -5104,7 +5104,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 106,
       "Attack": 130,
       "Defense": 90,
@@ -5125,7 +5125,7 @@
       "Psychic",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -5145,7 +5145,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
@@ -5165,7 +5165,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 65,
       "Defense": 45,
@@ -5185,7 +5185,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 85,
       "Defense": 65,
@@ -5205,7 +5205,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 60,
       "Defense": 40,
@@ -5226,7 +5226,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
@@ -5247,7 +5247,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 120,
       "Defense": 70,
@@ -5267,7 +5267,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
@@ -5288,7 +5288,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 85,
       "Defense": 70,
@@ -5309,7 +5309,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 110,
       "Defense": 90,
@@ -5329,7 +5329,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 55,
       "Defense": 35,
@@ -5349,7 +5349,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
@@ -5369,7 +5369,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 30,
       "Defense": 41,
@@ -5389,7 +5389,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 70,
       "Defense": 61,
@@ -5409,7 +5409,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 45,
       "Defense": 35,
@@ -5429,7 +5429,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
@@ -5450,7 +5450,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 70,
       "Defense": 50,
@@ -5470,7 +5470,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
@@ -5491,7 +5491,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 70,
@@ -5512,7 +5512,7 @@
       "Water",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
@@ -5533,7 +5533,7 @@
       "Water",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 50,
@@ -5554,7 +5554,7 @@
       "Water",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 70,
       "Defense": 70,
@@ -5574,7 +5574,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 40,
       "Defense": 50,
@@ -5595,7 +5595,7 @@
       "Grass",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 70,
       "Defense": 40,
@@ -5616,7 +5616,7 @@
       "Grass",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 100,
       "Defense": 60,
@@ -5637,7 +5637,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
@@ -5658,7 +5658,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
@@ -5679,7 +5679,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
@@ -5700,7 +5700,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 100,
@@ -5721,7 +5721,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 28,
       "Attack": 25,
       "Defense": 25,
@@ -5742,7 +5742,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 35,
       "Defense": 35,
@@ -5763,7 +5763,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 65,
       "Defense": 65,
@@ -5784,7 +5784,7 @@
       "Bug",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 32,
@@ -5805,7 +5805,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 60,
       "Defense": 62,
@@ -5825,7 +5825,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
@@ -5846,7 +5846,7 @@
       "Grass",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 130,
       "Defense": 80,
@@ -5866,7 +5866,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
@@ -5886,7 +5886,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
@@ -5906,7 +5906,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 150,
       "Attack": 160,
       "Defense": 100,
@@ -5927,7 +5927,7 @@
       "Bug",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 31,
       "Attack": 45,
       "Defense": 90,
@@ -5948,7 +5948,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 61,
       "Attack": 90,
       "Defense": 45,
@@ -5969,7 +5969,7 @@
       "Bug",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 1,
       "Attack": 90,
       "Defense": 45,
@@ -5989,7 +5989,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 64,
       "Attack": 51,
       "Defense": 23,
@@ -6009,7 +6009,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 84,
       "Attack": 71,
       "Defense": 43,
@@ -6029,7 +6029,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 104,
       "Attack": 91,
       "Defense": 63,
@@ -6049,7 +6049,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 60,
       "Defense": 30,
@@ -6069,7 +6069,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 144,
       "Attack": 120,
       "Defense": 60,
@@ -6090,7 +6090,7 @@
       "Normal",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 20,
       "Defense": 40,
@@ -6110,7 +6110,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 45,
       "Defense": 135,
@@ -6130,7 +6130,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 45,
       "Defense": 45,
@@ -6150,7 +6150,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 65,
       "Defense": 65,
@@ -6171,7 +6171,7 @@
       "Dark",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 75,
       "Defense": 75,
@@ -6192,7 +6192,7 @@
       "Steel",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 85,
       "Defense": 85,
@@ -6213,7 +6213,7 @@
       "Steel",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 70,
       "Defense": 100,
@@ -6234,7 +6234,7 @@
       "Steel",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 90,
       "Defense": 140,
@@ -6255,7 +6255,7 @@
       "Steel",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 110,
       "Defense": 180,
@@ -6276,7 +6276,7 @@
       "Fighting",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 40,
       "Defense": 55,
@@ -6297,7 +6297,7 @@
       "Fighting",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
@@ -6317,7 +6317,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
@@ -6337,7 +6337,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 75,
       "Defense": 60,
@@ -6357,7 +6357,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 40,
@@ -6377,7 +6377,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 40,
       "Defense": 50,
@@ -6397,7 +6397,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 73,
       "Defense": 75,
@@ -6417,7 +6417,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 47,
       "Defense": 75,
@@ -6438,7 +6438,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 60,
       "Defense": 45,
@@ -6458,7 +6458,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 43,
       "Defense": 53,
@@ -6478,7 +6478,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 73,
       "Defense": 83,
@@ -6499,7 +6499,7 @@
       "Water",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 90,
       "Defense": 20,
@@ -6520,7 +6520,7 @@
       "Water",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 120,
       "Defense": 40,
@@ -6540,7 +6540,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 130,
       "Attack": 70,
       "Defense": 35,
@@ -6560,7 +6560,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 170,
       "Attack": 90,
       "Defense": 45,
@@ -6581,7 +6581,7 @@
       "Fire",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 40,
@@ -6602,7 +6602,7 @@
       "Fire",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
@@ -6622,7 +6622,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 85,
       "Defense": 140,
@@ -6642,7 +6642,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 25,
       "Defense": 35,
@@ -6662,7 +6662,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 45,
       "Defense": 65,
@@ -6682,7 +6682,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
@@ -6702,7 +6702,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 100,
       "Defense": 45,
@@ -6723,7 +6723,7 @@
       "Ground",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
@@ -6744,7 +6744,7 @@
       "Ground",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 100,
       "Defense": 80,
@@ -6764,7 +6764,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 85,
       "Defense": 40,
@@ -6785,7 +6785,7 @@
       "Grass",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 115,
       "Defense": 60,
@@ -6806,7 +6806,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 40,
       "Defense": 60,
@@ -6827,7 +6827,7 @@
       "Dragon",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 70,
       "Defense": 90,
@@ -6847,7 +6847,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 73,
       "Attack": 115,
       "Defense": 60,
@@ -6867,7 +6867,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 73,
       "Attack": 100,
       "Defense": 60,
@@ -6888,7 +6888,7 @@
       "Rock",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 55,
       "Defense": 65,
@@ -6909,7 +6909,7 @@
       "Rock",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 95,
       "Defense": 85,
@@ -6930,7 +6930,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 48,
       "Defense": 43,
@@ -6951,7 +6951,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 78,
       "Defense": 73,
@@ -6971,7 +6971,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 43,
       "Attack": 80,
       "Defense": 65,
@@ -6992,7 +6992,7 @@
       "Water",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 63,
       "Attack": 120,
       "Defense": 85,
@@ -7013,7 +7013,7 @@
       "Ground",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 40,
       "Defense": 55,
@@ -7034,7 +7034,7 @@
       "Ground",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 70,
       "Defense": 105,
@@ -7055,7 +7055,7 @@
       "Rock",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 66,
       "Attack": 41,
       "Defense": 77,
@@ -7076,7 +7076,7 @@
       "Rock",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 86,
       "Attack": 81,
       "Defense": 97,
@@ -7097,7 +7097,7 @@
       "Rock",
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 95,
       "Defense": 50,
@@ -7118,7 +7118,7 @@
       "Rock",
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 125,
       "Defense": 100,
@@ -7138,7 +7138,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 15,
       "Defense": 20,
@@ -7158,7 +7158,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 60,
       "Defense": 79,
@@ -7178,7 +7178,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 70,
       "Defense": 70,
@@ -7198,7 +7198,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 90,
       "Defense": 70,
@@ -7218,7 +7218,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 75,
       "Defense": 35,
@@ -7238,7 +7238,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 64,
       "Attack": 115,
       "Defense": 65,
@@ -7258,7 +7258,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 40,
       "Defense": 90,
@@ -7278,7 +7278,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 70,
       "Defense": 130,
@@ -7299,7 +7299,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 99,
       "Attack": 68,
       "Defense": 83,
@@ -7319,7 +7319,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 50,
       "Defense": 80,
@@ -7339,7 +7339,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 130,
       "Defense": 60,
@@ -7359,7 +7359,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 23,
       "Defense": 48,
@@ -7379,7 +7379,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 50,
@@ -7399,7 +7399,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
@@ -7420,7 +7420,7 @@
       "Ice",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 40,
       "Defense": 50,
@@ -7441,7 +7441,7 @@
       "Ice",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 60,
       "Defense": 70,
@@ -7462,7 +7462,7 @@
       "Ice",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 80,
       "Defense": 90,
@@ -7482,7 +7482,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 64,
       "Defense": 85,
@@ -7502,7 +7502,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 104,
       "Defense": 105,
@@ -7522,7 +7522,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 84,
       "Defense": 105,
@@ -7543,7 +7543,7 @@
       "Water",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 90,
       "Defense": 130,
@@ -7563,7 +7563,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 43,
       "Attack": 30,
       "Defense": 55,
@@ -7583,7 +7583,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 75,
       "Defense": 60,
@@ -7603,7 +7603,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 95,
       "Defense": 100,
@@ -7624,7 +7624,7 @@
       "Dragon",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 135,
       "Defense": 80,
@@ -7645,7 +7645,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 80,
@@ -7666,7 +7666,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 75,
       "Defense": 100,
@@ -7687,7 +7687,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 135,
       "Defense": 130,
@@ -7707,7 +7707,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 100,
       "Defense": 200,
@@ -7727,7 +7727,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 50,
       "Defense": 100,
@@ -7747,7 +7747,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 75,
       "Defense": 150,
@@ -7768,7 +7768,7 @@
       "Dragon",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 80,
       "Defense": 90,
@@ -7789,7 +7789,7 @@
       "Dragon",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 90,
       "Defense": 80,
@@ -7809,7 +7809,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 90,
@@ -7829,7 +7829,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 150,
       "Defense": 140,
@@ -7850,7 +7850,7 @@
       "Dragon",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 150,
       "Defense": 90,
@@ -7871,7 +7871,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -7891,7 +7891,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 150,
       "Defense": 50,
@@ -7911,7 +7911,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 68,
       "Defense": 64,
@@ -7931,7 +7931,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 89,
       "Defense": 85,
@@ -7952,7 +7952,7 @@
       "Grass",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 109,
       "Defense": 105,
@@ -7972,7 +7972,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 58,
       "Defense": 44,
@@ -7993,7 +7993,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 64,
       "Attack": 78,
       "Defense": 52,
@@ -8014,7 +8014,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 76,
       "Attack": 104,
       "Defense": 71,
@@ -8034,7 +8034,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 53,
       "Attack": 51,
       "Defense": 53,
@@ -8054,7 +8054,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 64,
       "Attack": 66,
       "Defense": 68,
@@ -8075,7 +8075,7 @@
       "Water",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 84,
       "Attack": 86,
       "Defense": 88,
@@ -8096,7 +8096,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
@@ -8117,7 +8117,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 75,
       "Defense": 50,
@@ -8138,7 +8138,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 120,
       "Defense": 70,
@@ -8158,7 +8158,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 45,
       "Defense": 40,
@@ -8179,7 +8179,7 @@
       "Normal",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 79,
       "Attack": 85,
       "Defense": 60,
@@ -8199,7 +8199,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 37,
       "Attack": 25,
       "Defense": 41,
@@ -8219,7 +8219,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 77,
       "Attack": 85,
       "Defense": 51,
@@ -8239,7 +8239,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 65,
       "Defense": 34,
@@ -8259,7 +8259,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 49,
@@ -8279,7 +8279,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 120,
       "Defense": 79,
@@ -8300,7 +8300,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
@@ -8321,7 +8321,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 70,
       "Defense": 65,
@@ -8341,7 +8341,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 125,
       "Defense": 40,
@@ -8361,7 +8361,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 97,
       "Attack": 165,
       "Defense": 60,
@@ -8382,7 +8382,7 @@
       "Rock",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 42,
       "Defense": 118,
@@ -8403,7 +8403,7 @@
       "Rock",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 52,
       "Defense": 168,
@@ -8423,7 +8423,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 29,
       "Defense": 45,
@@ -8444,7 +8444,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 59,
       "Defense": 85,
@@ -8465,7 +8465,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 94,
       "Defense": 50,
@@ -8486,7 +8486,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 30,
       "Defense": 42,
@@ -8507,7 +8507,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 80,
       "Defense": 102,
@@ -8527,7 +8527,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
@@ -8547,7 +8547,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 65,
       "Defense": 35,
@@ -8567,7 +8567,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 105,
       "Defense": 55,
@@ -8587,7 +8587,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 35,
       "Defense": 45,
@@ -8607,7 +8607,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 60,
       "Defense": 70,
@@ -8627,7 +8627,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 76,
       "Attack": 48,
       "Defense": 48,
@@ -8648,7 +8648,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 111,
       "Attack": 83,
       "Defense": 68,
@@ -8668,7 +8668,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 100,
       "Defense": 66,
@@ -8689,7 +8689,7 @@
       "Ghost",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 50,
       "Defense": 34,
@@ -8710,7 +8710,7 @@
       "Ghost",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 150,
       "Attack": 80,
       "Defense": 44,
@@ -8730,7 +8730,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 66,
       "Defense": 44,
@@ -8750,7 +8750,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 76,
       "Defense": 84,
@@ -8770,7 +8770,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
@@ -8791,7 +8791,7 @@
       "Dark",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 125,
       "Defense": 52,
@@ -8811,7 +8811,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 49,
       "Attack": 55,
       "Defense": 42,
@@ -8831,7 +8831,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 71,
       "Attack": 82,
       "Defense": 64,
@@ -8851,7 +8851,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
@@ -8872,7 +8872,7 @@
       "Poison",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 63,
       "Attack": 63,
       "Defense": 47,
@@ -8893,7 +8893,7 @@
       "Poison",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 103,
       "Attack": 93,
       "Defense": 67,
@@ -8914,7 +8914,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 57,
       "Attack": 24,
       "Defense": 86,
@@ -8935,7 +8935,7 @@
       "Steel",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 89,
       "Defense": 116,
@@ -8955,7 +8955,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 80,
       "Defense": 95,
@@ -8976,7 +8976,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 20,
       "Attack": 25,
       "Defense": 45,
@@ -8996,7 +8996,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 5,
       "Defense": 5,
@@ -9017,7 +9017,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 76,
       "Attack": 65,
       "Defense": 45,
@@ -9038,7 +9038,7 @@
       "Ghost",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 92,
       "Defense": 108,
@@ -9059,7 +9059,7 @@
       "Dragon",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 70,
       "Defense": 45,
@@ -9080,7 +9080,7 @@
       "Dragon",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 90,
       "Defense": 65,
@@ -9101,7 +9101,7 @@
       "Dragon",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 108,
       "Attack": 130,
       "Defense": 95,
@@ -9121,7 +9121,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 135,
       "Attack": 85,
       "Defense": 40,
@@ -9141,7 +9141,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 70,
       "Defense": 40,
@@ -9162,7 +9162,7 @@
       "Fighting",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 110,
       "Defense": 70,
@@ -9182,7 +9182,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 72,
       "Defense": 78,
@@ -9202,7 +9202,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 108,
       "Attack": 112,
       "Defense": 118,
@@ -9223,7 +9223,7 @@
       "Poison",
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 50,
       "Defense": 90,
@@ -9244,7 +9244,7 @@
       "Poison",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 90,
       "Defense": 110,
@@ -9265,7 +9265,7 @@
       "Poison",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 48,
       "Attack": 61,
       "Defense": 40,
@@ -9286,7 +9286,7 @@
       "Poison",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 83,
       "Attack": 106,
       "Defense": 65,
@@ -9306,7 +9306,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 74,
       "Attack": 100,
       "Defense": 72,
@@ -9326,7 +9326,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 49,
       "Attack": 49,
       "Defense": 56,
@@ -9346,7 +9346,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 69,
       "Attack": 69,
       "Defense": 76,
@@ -9367,7 +9367,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 20,
       "Defense": 50,
@@ -9388,7 +9388,7 @@
       "Grass",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 62,
       "Defense": 50,
@@ -9409,7 +9409,7 @@
       "Grass",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 92,
       "Defense": 75,
@@ -9430,7 +9430,7 @@
       "Dark",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 120,
       "Defense": 65,
@@ -9451,7 +9451,7 @@
       "Electric",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 70,
       "Defense": 115,
@@ -9471,7 +9471,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 85,
       "Defense": 95,
@@ -9492,7 +9492,7 @@
       "Ground",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 115,
       "Attack": 140,
       "Defense": 130,
@@ -9512,7 +9512,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 125,
@@ -9532,7 +9532,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 123,
       "Defense": 67,
@@ -9552,7 +9552,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 95,
       "Defense": 67,
@@ -9573,7 +9573,7 @@
       "Fairy",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 50,
       "Defense": 95,
@@ -9594,7 +9594,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 86,
       "Attack": 76,
       "Defense": 86,
@@ -9614,7 +9614,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 110,
       "Defense": 130,
@@ -9634,7 +9634,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 60,
       "Defense": 110,
@@ -9655,7 +9655,7 @@
       "Ground",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 95,
       "Defense": 125,
@@ -9676,7 +9676,7 @@
       "Ice",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 130,
       "Defense": 80,
@@ -9696,7 +9696,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 80,
       "Defense": 70,
@@ -9717,7 +9717,7 @@
       "Psychic",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 125,
       "Defense": 65,
@@ -9738,7 +9738,7 @@
       "Rock",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 55,
       "Defense": 145,
@@ -9758,7 +9758,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 100,
       "Defense": 135,
@@ -9779,7 +9779,7 @@
       "Ice",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 80,
       "Defense": 70,
@@ -9800,7 +9800,7 @@
       "Electric",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 77,
@@ -9820,7 +9820,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 75,
       "Defense": 130,
@@ -9840,7 +9840,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 105,
       "Defense": 105,
@@ -9860,7 +9860,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 125,
       "Defense": 70,
@@ -9881,7 +9881,7 @@
       "Steel",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 120,
       "Defense": 120,
@@ -9902,7 +9902,7 @@
       "Water",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 120,
       "Defense": 100,
@@ -9923,7 +9923,7 @@
       "Fire",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 90,
       "Defense": 106,
@@ -9943,7 +9943,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 160,
       "Defense": 110,
@@ -9964,7 +9964,7 @@
       "Ghost",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 150,
       "Attack": 100,
       "Defense": 120,
@@ -9984,7 +9984,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 120,
       "Attack": 70,
       "Defense": 120,
@@ -10004,7 +10004,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
@@ -10024,7 +10024,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -10044,7 +10044,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 90,
       "Defense": 90,
@@ -10064,7 +10064,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -10084,7 +10084,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 120,
       "Attack": 120,
       "Defense": 120,
@@ -10105,7 +10105,7 @@
       "Psychic",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
@@ -10125,7 +10125,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 45,
       "Defense": 55,
@@ -10145,7 +10145,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
@@ -10165,7 +10165,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 75,
       "Defense": 95,
@@ -10185,7 +10185,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 63,
       "Defense": 45,
@@ -10206,7 +10206,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 93,
       "Defense": 55,
@@ -10227,7 +10227,7 @@
       "Fire",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 123,
       "Defense": 65,
@@ -10247,7 +10247,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 55,
       "Defense": 45,
@@ -10267,7 +10267,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 75,
       "Defense": 60,
@@ -10287,7 +10287,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 100,
       "Defense": 85,
@@ -10307,7 +10307,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 55,
       "Defense": 39,
@@ -10327,7 +10327,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 69,
@@ -10347,7 +10347,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 60,
       "Defense": 45,
@@ -10367,7 +10367,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 80,
       "Defense": 65,
@@ -10387,7 +10387,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 110,
       "Defense": 90,
@@ -10407,7 +10407,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 41,
       "Attack": 50,
       "Defense": 37,
@@ -10427,7 +10427,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 64,
       "Attack": 88,
       "Defense": 50,
@@ -10447,7 +10447,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
@@ -10467,7 +10467,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
@@ -10487,7 +10487,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
@@ -10507,7 +10507,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
@@ -10527,7 +10527,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
@@ -10547,7 +10547,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
@@ -10567,7 +10567,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 76,
       "Attack": 25,
       "Defense": 45,
@@ -10587,7 +10587,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 116,
       "Attack": 55,
       "Defense": 85,
@@ -10608,7 +10608,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 55,
       "Defense": 50,
@@ -10629,7 +10629,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 77,
       "Defense": 62,
@@ -10650,7 +10650,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 115,
       "Defense": 80,
@@ -10670,7 +10670,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 60,
       "Defense": 32,
@@ -10690,7 +10690,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 100,
       "Defense": 63,
@@ -10710,7 +10710,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 75,
       "Defense": 85,
@@ -10730,7 +10730,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 105,
       "Defense": 105,
@@ -10750,7 +10750,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 135,
       "Defense": 130,
@@ -10771,7 +10771,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 45,
       "Defense": 43,
@@ -10792,7 +10792,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 57,
       "Defense": 55,
@@ -10812,7 +10812,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 85,
       "Defense": 40,
@@ -10833,7 +10833,7 @@
       "Ground",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 135,
       "Defense": 60,
@@ -10853,7 +10853,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 103,
       "Attack": 60,
       "Defense": 86,
@@ -10873,7 +10873,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 80,
       "Defense": 55,
@@ -10893,7 +10893,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 105,
       "Defense": 85,
@@ -10913,7 +10913,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 140,
       "Defense": 95,
@@ -10933,7 +10933,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
@@ -10954,7 +10954,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 65,
       "Defense": 55,
@@ -10975,7 +10975,7 @@
       "Water",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 95,
       "Defense": 75,
@@ -10995,7 +10995,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 120,
       "Attack": 100,
       "Defense": 85,
@@ -11015,7 +11015,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 125,
       "Defense": 75,
@@ -11036,7 +11036,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 53,
       "Defense": 70,
@@ -11057,7 +11057,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 63,
       "Defense": 90,
@@ -11078,7 +11078,7 @@
       "Bug",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 103,
       "Defense": 80,
@@ -11099,7 +11099,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 30,
       "Attack": 45,
       "Defense": 59,
@@ -11120,7 +11120,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 99,
@@ -11141,7 +11141,7 @@
       "Bug",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 100,
       "Defense": 89,
@@ -11162,7 +11162,7 @@
       "Grass",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 27,
       "Defense": 60,
@@ -11183,7 +11183,7 @@
       "Grass",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 67,
       "Defense": 85,
@@ -11203,7 +11203,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 35,
       "Defense": 50,
@@ -11223,7 +11223,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 60,
       "Defense": 75,
@@ -11243,7 +11243,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 92,
       "Defense": 65,
@@ -11264,7 +11264,7 @@
       "Ground",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 72,
       "Defense": 35,
@@ -11285,7 +11285,7 @@
       "Ground",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 82,
       "Defense": 45,
@@ -11306,7 +11306,7 @@
       "Ground",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 117,
       "Defense": 80,
@@ -11326,7 +11326,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 90,
       "Defense": 45,
@@ -11346,7 +11346,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 105,
       "Attack": 140,
       "Defense": 55,
@@ -11366,7 +11366,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 86,
       "Defense": 67,
@@ -11387,7 +11387,7 @@
       "Bug",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 65,
       "Defense": 85,
@@ -11408,7 +11408,7 @@
       "Bug",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 105,
       "Defense": 125,
@@ -11429,7 +11429,7 @@
       "Dark",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 75,
       "Defense": 70,
@@ -11450,7 +11450,7 @@
       "Dark",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 90,
       "Defense": 115,
@@ -11471,7 +11471,7 @@
       "Psychic",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 58,
       "Defense": 80,
@@ -11491,7 +11491,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 30,
       "Defense": 85,
@@ -11511,7 +11511,7 @@
     "type": [
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 50,
       "Defense": 145,
@@ -11532,7 +11532,7 @@
       "Water",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 54,
       "Attack": 78,
       "Defense": 103,
@@ -11553,7 +11553,7 @@
       "Water",
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 74,
       "Attack": 108,
       "Defense": 133,
@@ -11574,7 +11574,7 @@
       "Rock",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 112,
       "Defense": 45,
@@ -11595,7 +11595,7 @@
       "Rock",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 140,
       "Defense": 65,
@@ -11615,7 +11615,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 62,
@@ -11635,7 +11635,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 95,
       "Defense": 82,
@@ -11655,7 +11655,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 65,
       "Defense": 40,
@@ -11675,7 +11675,7 @@
     "type": [
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 105,
       "Defense": 60,
@@ -11695,7 +11695,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 50,
       "Defense": 40,
@@ -11715,7 +11715,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 95,
       "Defense": 60,
@@ -11735,7 +11735,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
@@ -11755,7 +11755,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
@@ -11775,7 +11775,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 55,
       "Defense": 95,
@@ -11795,7 +11795,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 30,
       "Defense": 40,
@@ -11815,7 +11815,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 40,
       "Defense": 50,
@@ -11835,7 +11835,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 65,
       "Defense": 75,
@@ -11856,7 +11856,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 44,
       "Defense": 50,
@@ -11877,7 +11877,7 @@
       "Water",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 87,
       "Defense": 63,
@@ -11897,7 +11897,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 36,
       "Attack": 50,
       "Defense": 50,
@@ -11917,7 +11917,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 51,
       "Attack": 65,
       "Defense": 65,
@@ -11937,7 +11937,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 71,
       "Attack": 95,
       "Defense": 85,
@@ -11958,7 +11958,7 @@
       "Normal",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 50,
@@ -11979,7 +11979,7 @@
       "Normal",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 100,
       "Defense": 70,
@@ -12000,7 +12000,7 @@
       "Electric",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 75,
       "Defense": 60,
@@ -12020,7 +12020,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 75,
       "Defense": 45,
@@ -12041,7 +12041,7 @@
       "Bug",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 135,
       "Defense": 105,
@@ -12062,7 +12062,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 69,
       "Attack": 55,
       "Defense": 45,
@@ -12083,7 +12083,7 @@
       "Grass",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 114,
       "Attack": 85,
       "Defense": 70,
@@ -12104,7 +12104,7 @@
       "Water",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 40,
       "Defense": 50,
@@ -12125,7 +12125,7 @@
       "Water",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 60,
       "Defense": 70,
@@ -12145,7 +12145,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 165,
       "Attack": 75,
       "Defense": 80,
@@ -12166,7 +12166,7 @@
       "Bug",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 47,
       "Defense": 50,
@@ -12187,7 +12187,7 @@
       "Bug",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 77,
       "Defense": 60,
@@ -12208,7 +12208,7 @@
       "Grass",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 50,
       "Defense": 91,
@@ -12229,7 +12229,7 @@
       "Grass",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 74,
       "Attack": 94,
       "Defense": 131,
@@ -12249,7 +12249,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 70,
@@ -12269,7 +12269,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 80,
       "Defense": 95,
@@ -12289,7 +12289,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 100,
       "Defense": 115,
@@ -12309,7 +12309,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 55,
       "Defense": 40,
@@ -12329,7 +12329,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 85,
       "Defense": 70,
@@ -12349,7 +12349,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 115,
       "Defense": 80,
@@ -12369,7 +12369,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 55,
       "Defense": 55,
@@ -12389,7 +12389,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 75,
       "Defense": 75,
@@ -12410,7 +12410,7 @@
       "Ghost",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 30,
       "Defense": 55,
@@ -12431,7 +12431,7 @@
       "Ghost",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
@@ -12452,7 +12452,7 @@
       "Ghost",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 55,
       "Defense": 90,
@@ -12472,7 +12472,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 46,
       "Attack": 87,
       "Defense": 60,
@@ -12492,7 +12492,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 66,
       "Attack": 117,
       "Defense": 70,
@@ -12512,7 +12512,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 76,
       "Attack": 147,
       "Defense": 90,
@@ -12532,7 +12532,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 70,
       "Defense": 40,
@@ -12552,7 +12552,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 130,
       "Defense": 80,
@@ -12572,7 +12572,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 50,
       "Defense": 50,
@@ -12592,7 +12592,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 40,
       "Defense": 85,
@@ -12612,7 +12612,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 70,
       "Defense": 40,
@@ -12633,7 +12633,7 @@
       "Ground",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 109,
       "Attack": 66,
       "Defense": 84,
@@ -12653,7 +12653,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 85,
       "Defense": 50,
@@ -12673,7 +12673,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 125,
       "Defense": 60,
@@ -12693,7 +12693,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 77,
       "Attack": 120,
       "Defense": 90,
@@ -12714,7 +12714,7 @@
       "Ground",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 74,
       "Defense": 50,
@@ -12735,7 +12735,7 @@
       "Ground",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 89,
       "Attack": 124,
       "Defense": 80,
@@ -12756,7 +12756,7 @@
       "Dark",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 85,
       "Defense": 70,
@@ -12777,7 +12777,7 @@
       "Dark",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 125,
       "Defense": 100,
@@ -12797,7 +12797,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 110,
       "Defense": 95,
@@ -12818,7 +12818,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 83,
       "Defense": 50,
@@ -12839,7 +12839,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 123,
       "Defense": 75,
@@ -12860,7 +12860,7 @@
       "Dark",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 55,
       "Defense": 75,
@@ -12881,7 +12881,7 @@
       "Dark",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 110,
       "Attack": 65,
       "Defense": 105,
@@ -12901,7 +12901,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 97,
       "Defense": 66,
@@ -12922,7 +12922,7 @@
       "Bug",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 109,
       "Defense": 112,
@@ -12943,7 +12943,7 @@
       "Dark",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 52,
       "Attack": 65,
       "Defense": 50,
@@ -12964,7 +12964,7 @@
       "Dark",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 85,
       "Defense": 70,
@@ -12985,7 +12985,7 @@
       "Dark",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 92,
       "Attack": 105,
       "Defense": 90,
@@ -13006,7 +13006,7 @@
       "Bug",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 85,
       "Defense": 55,
@@ -13027,7 +13027,7 @@
       "Bug",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 60,
       "Defense": 65,
@@ -13048,7 +13048,7 @@
       "Steel",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 90,
       "Defense": 129,
@@ -13069,7 +13069,7 @@
       "Rock",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 129,
       "Defense": 90,
@@ -13090,7 +13090,7 @@
       "Grass",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 90,
       "Defense": 72,
@@ -13110,7 +13110,7 @@
     "type": [
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
@@ -13131,7 +13131,7 @@
       "Electric",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
@@ -13152,7 +13152,7 @@
       "Dragon",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 120,
       "Defense": 100,
@@ -13173,7 +13173,7 @@
       "Dragon",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 150,
       "Defense": 120,
@@ -13194,7 +13194,7 @@
       "Ground",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 89,
       "Attack": 125,
       "Defense": 90,
@@ -13215,7 +13215,7 @@
       "Dragon",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 125,
       "Attack": 130,
       "Defense": 90,
@@ -13236,7 +13236,7 @@
       "Water",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 91,
       "Attack": 72,
       "Defense": 90,
@@ -13257,7 +13257,7 @@
       "Normal",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 77,
       "Defense": 77,
@@ -13278,7 +13278,7 @@
       "Bug",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 71,
       "Attack": 120,
       "Defense": 95,
@@ -13298,7 +13298,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 56,
       "Attack": 61,
       "Defense": 65,
@@ -13318,7 +13318,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 61,
       "Attack": 78,
       "Defense": 95,
@@ -13339,7 +13339,7 @@
       "Grass",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 88,
       "Attack": 107,
       "Defense": 122,
@@ -13359,7 +13359,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
@@ -13379,7 +13379,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 59,
       "Defense": 58,
@@ -13400,7 +13400,7 @@
       "Fire",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 69,
       "Defense": 72,
@@ -13420,7 +13420,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 41,
       "Attack": 56,
       "Defense": 40,
@@ -13440,7 +13440,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 54,
       "Attack": 63,
       "Defense": 52,
@@ -13461,7 +13461,7 @@
       "Water",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 95,
       "Defense": 67,
@@ -13481,7 +13481,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 36,
       "Defense": 38,
@@ -13502,7 +13502,7 @@
       "Normal",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 56,
       "Defense": 77,
@@ -13523,7 +13523,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 50,
       "Defense": 43,
@@ -13544,7 +13544,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 73,
       "Defense": 55,
@@ -13565,7 +13565,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 81,
       "Defense": 71,
@@ -13585,7 +13585,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 35,
       "Defense": 40,
@@ -13605,7 +13605,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 22,
       "Defense": 60,
@@ -13626,7 +13626,7 @@
       "Bug",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 52,
       "Defense": 50,
@@ -13647,7 +13647,7 @@
       "Fire",
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 50,
       "Defense": 58,
@@ -13668,7 +13668,7 @@
       "Fire",
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 86,
       "Attack": 68,
       "Defense": 72,
@@ -13688,7 +13688,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 38,
       "Defense": 39,
@@ -13708,7 +13708,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 54,
       "Attack": 45,
       "Defense": 47,
@@ -13728,7 +13728,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 65,
       "Defense": 68,
@@ -13748,7 +13748,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 66,
       "Attack": 65,
       "Defense": 48,
@@ -13768,7 +13768,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 123,
       "Attack": 100,
       "Defense": 62,
@@ -13788,7 +13788,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 82,
       "Defense": 62,
@@ -13809,7 +13809,7 @@
       "Fighting",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 124,
       "Defense": 78,
@@ -13829,7 +13829,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 80,
       "Defense": 60,
@@ -13849,7 +13849,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 48,
       "Defense": 54,
@@ -13869,7 +13869,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 74,
       "Attack": 48,
       "Defense": 76,
@@ -13890,7 +13890,7 @@
       "Steel",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 80,
       "Defense": 100,
@@ -13911,7 +13911,7 @@
       "Steel",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 110,
       "Defense": 150,
@@ -13932,7 +13932,7 @@
       "Steel",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 50,
       "Defense": 150,
@@ -13952,7 +13952,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 52,
       "Defense": 60,
@@ -13972,7 +13972,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 101,
       "Attack": 72,
       "Defense": 72,
@@ -13992,7 +13992,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 48,
       "Defense": 66,
@@ -14012,7 +14012,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 82,
       "Attack": 80,
       "Defense": 86,
@@ -14033,7 +14033,7 @@
       "Dark",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 53,
       "Attack": 54,
       "Defense": 53,
@@ -14054,7 +14054,7 @@
       "Dark",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 86,
       "Attack": 92,
       "Defense": 88,
@@ -14075,7 +14075,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 42,
       "Attack": 52,
       "Defense": 67,
@@ -14096,7 +14096,7 @@
       "Rock",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 105,
       "Defense": 115,
@@ -14117,7 +14117,7 @@
       "Poison",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 60,
       "Defense": 60,
@@ -14138,7 +14138,7 @@
       "Poison",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 75,
       "Defense": 90,
@@ -14158,7 +14158,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
@@ -14178,7 +14178,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 71,
       "Attack": 73,
       "Defense": 88,
@@ -14199,7 +14199,7 @@
       "Electric",
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 44,
       "Attack": 38,
       "Defense": 33,
@@ -14220,7 +14220,7 @@
       "Electric",
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 62,
       "Attack": 55,
       "Defense": 52,
@@ -14241,7 +14241,7 @@
       "Rock",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 58,
       "Attack": 89,
       "Defense": 77,
@@ -14262,7 +14262,7 @@
       "Rock",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 82,
       "Attack": 121,
       "Defense": 119,
@@ -14283,7 +14283,7 @@
       "Rock",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 77,
       "Attack": 59,
       "Defense": 50,
@@ -14304,7 +14304,7 @@
       "Rock",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 123,
       "Attack": 77,
       "Defense": 72,
@@ -14324,7 +14324,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 65,
       "Defense": 65,
@@ -14345,7 +14345,7 @@
       "Fighting",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 92,
       "Defense": 75,
@@ -14366,7 +14366,7 @@
       "Electric",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 58,
       "Defense": 57,
@@ -14387,7 +14387,7 @@
       "Rock",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 50,
       "Defense": 150,
@@ -14407,7 +14407,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 50,
       "Defense": 35,
@@ -14427,7 +14427,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 75,
       "Defense": 53,
@@ -14447,7 +14447,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 100,
       "Defense": 70,
@@ -14468,7 +14468,7 @@
       "Steel",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 57,
       "Attack": 80,
       "Defense": 91,
@@ -14489,7 +14489,7 @@
       "Ghost",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 43,
       "Attack": 70,
       "Defense": 48,
@@ -14510,7 +14510,7 @@
       "Ghost",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 110,
       "Defense": 76,
@@ -14531,7 +14531,7 @@
       "Ghost",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 66,
       "Defense": 70,
@@ -14552,7 +14552,7 @@
       "Ghost",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 100,
       "Defense": 122,
@@ -14572,7 +14572,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 69,
       "Defense": 85,
@@ -14592,7 +14592,7 @@
     "type": [
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 117,
       "Defense": 184,
@@ -14613,7 +14613,7 @@
       "Flying",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
@@ -14634,7 +14634,7 @@
       "Flying",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 70,
       "Defense": 80,
@@ -14654,7 +14654,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
@@ -14675,7 +14675,7 @@
       "Dark",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
@@ -14696,7 +14696,7 @@
       "Dragon",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 108,
       "Attack": 100,
       "Defense": 121,
@@ -14717,7 +14717,7 @@
       "Rock",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 100,
       "Defense": 150,
@@ -14738,7 +14738,7 @@
       "Psychic",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 110,
       "Defense": 60,
@@ -14759,7 +14759,7 @@
       "Fire",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 110,
       "Defense": 120,
@@ -14780,7 +14780,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 55,
       "Defense": 55,
@@ -14801,7 +14801,7 @@
       "Grass",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 75,
       "Defense": 75,
@@ -14822,7 +14822,7 @@
       "Grass",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 107,
       "Defense": 75,
@@ -14842,7 +14842,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
@@ -14862,7 +14862,7 @@
     "type": [
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 85,
       "Defense": 50,
@@ -14883,7 +14883,7 @@
       "Fire",
       "Dark"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 115,
       "Defense": 90,
@@ -14903,7 +14903,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 54,
       "Defense": 54,
@@ -14923,7 +14923,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 69,
       "Defense": 69,
@@ -14944,7 +14944,7 @@
       "Water",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 74,
       "Defense": 74,
@@ -14965,7 +14965,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 35,
       "Attack": 75,
       "Defense": 30,
@@ -14986,7 +14986,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 85,
       "Defense": 50,
@@ -15007,7 +15007,7 @@
       "Normal",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 120,
       "Defense": 75,
@@ -15027,7 +15027,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 48,
       "Attack": 70,
       "Defense": 30,
@@ -15047,7 +15047,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 88,
       "Attack": 110,
       "Defense": 60,
@@ -15067,7 +15067,7 @@
     "type": [
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 47,
       "Attack": 62,
       "Defense": 45,
@@ -15088,7 +15088,7 @@
       "Bug",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 57,
       "Attack": 82,
       "Defense": 95,
@@ -15109,7 +15109,7 @@
       "Bug",
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 77,
       "Attack": 70,
       "Defense": 90,
@@ -15129,7 +15129,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 47,
       "Attack": 82,
       "Defense": 57,
@@ -15150,7 +15150,7 @@
       "Fighting",
       "Ice"
     ],
-    "base": {
+    "stats": {
       "HP": 97,
       "Attack": 132,
       "Defense": 77,
@@ -15171,7 +15171,7 @@
       "Fire",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 70,
       "Defense": 70,
@@ -15192,7 +15192,7 @@
       "Bug",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
@@ -15213,7 +15213,7 @@
       "Bug",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 55,
       "Defense": 60,
@@ -15233,7 +15233,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
@@ -15253,7 +15253,7 @@
     "type": [
       "Rock"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 115,
       "Defense": 65,
@@ -15273,7 +15273,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 20,
       "Defense": 20,
@@ -15294,7 +15294,7 @@
       "Poison",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
@@ -15315,7 +15315,7 @@
       "Poison",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 50,
       "Attack": 63,
       "Defense": 152,
@@ -15335,7 +15335,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
@@ -15355,7 +15355,7 @@
     "type": [
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 125,
       "Defense": 100,
@@ -15376,7 +15376,7 @@
       "Water",
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 38,
       "Attack": 40,
       "Defense": 52,
@@ -15397,7 +15397,7 @@
       "Water",
       "Bug"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 70,
       "Defense": 92,
@@ -15417,7 +15417,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 55,
       "Defense": 35,
@@ -15437,7 +15437,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 105,
       "Defense": 90,
@@ -15458,7 +15458,7 @@
       "Grass",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 40,
       "Attack": 35,
       "Defense": 55,
@@ -15479,7 +15479,7 @@
       "Grass",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 45,
       "Defense": 80,
@@ -15500,7 +15500,7 @@
       "Poison",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 48,
       "Attack": 44,
       "Defense": 40,
@@ -15521,7 +15521,7 @@
       "Poison",
       "Fire"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 64,
       "Defense": 60,
@@ -15542,7 +15542,7 @@
       "Normal",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 75,
       "Defense": 50,
@@ -15563,7 +15563,7 @@
       "Normal",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 120,
       "Attack": 125,
       "Defense": 80,
@@ -15583,7 +15583,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 42,
       "Attack": 30,
       "Defense": 38,
@@ -15603,7 +15603,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 52,
       "Attack": 40,
       "Defense": 48,
@@ -15623,7 +15623,7 @@
     "type": [
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 72,
       "Attack": 120,
       "Defense": 98,
@@ -15643,7 +15643,7 @@
     "type": [
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 51,
       "Attack": 52,
       "Defense": 90,
@@ -15664,7 +15664,7 @@
       "Normal",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 60,
       "Defense": 80,
@@ -15684,7 +15684,7 @@
     "type": [
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 100,
       "Attack": 120,
       "Defense": 90,
@@ -15705,7 +15705,7 @@
       "Bug",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 25,
       "Attack": 35,
       "Defense": 40,
@@ -15726,7 +15726,7 @@
       "Bug",
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 125,
       "Defense": 140,
@@ -15747,7 +15747,7 @@
       "Ghost",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 55,
       "Defense": 80,
@@ -15768,7 +15768,7 @@
       "Ghost",
       "Ground"
     ],
-    "base": {
+    "stats": {
       "HP": 85,
       "Attack": 75,
       "Defense": 110,
@@ -15788,7 +15788,7 @@
     "type": [
       "Water"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 60,
       "Defense": 130,
@@ -15808,7 +15808,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
@@ -15828,7 +15828,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
@@ -15849,7 +15849,7 @@
       "Rock",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 60,
       "Defense": 100,
@@ -15869,7 +15869,7 @@
     "type": [
       "Normal"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 115,
       "Defense": 65,
@@ -15890,7 +15890,7 @@
       "Fire",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 60,
       "Attack": 78,
       "Defense": 135,
@@ -15911,7 +15911,7 @@
       "Electric",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 65,
       "Attack": 98,
       "Defense": 63,
@@ -15932,7 +15932,7 @@
       "Ghost",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 90,
       "Defense": 80,
@@ -15953,7 +15953,7 @@
       "Water",
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 68,
       "Attack": 105,
       "Defense": 70,
@@ -15974,7 +15974,7 @@
       "Normal",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 78,
       "Attack": 60,
       "Defense": 85,
@@ -15995,7 +15995,7 @@
       "Ghost",
       "Grass"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 131,
       "Defense": 100,
@@ -16015,7 +16015,7 @@
     "type": [
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 45,
       "Attack": 55,
       "Defense": 65,
@@ -16036,7 +16036,7 @@
       "Dragon",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 55,
       "Attack": 75,
       "Defense": 90,
@@ -16057,7 +16057,7 @@
       "Dragon",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 75,
       "Attack": 110,
       "Defense": 125,
@@ -16078,7 +16078,7 @@
       "Electric",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 115,
       "Defense": 85,
@@ -16099,7 +16099,7 @@
       "Psychic",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 85,
       "Defense": 75,
@@ -16120,7 +16120,7 @@
       "Grass",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 130,
       "Defense": 115,
@@ -16141,7 +16141,7 @@
       "Water",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 70,
       "Attack": 75,
       "Defense": 115,
@@ -16161,7 +16161,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 43,
       "Attack": 29,
       "Defense": 31,
@@ -16181,7 +16181,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 43,
       "Attack": 29,
       "Defense": 131,
@@ -16202,7 +16202,7 @@
       "Psychic",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 137,
       "Attack": 137,
       "Defense": 107,
@@ -16223,7 +16223,7 @@
       "Psychic",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 137,
       "Attack": 113,
       "Defense": 89,
@@ -16244,7 +16244,7 @@
       "Rock",
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 109,
       "Attack": 53,
       "Defense": 47,
@@ -16265,7 +16265,7 @@
       "Bug",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 107,
       "Attack": 139,
       "Defense": 139,
@@ -16286,7 +16286,7 @@
       "Bug",
       "Fighting"
     ],
-    "base": {
+    "stats": {
       "HP": 71,
       "Attack": 137,
       "Defense": 37,
@@ -16306,7 +16306,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 83,
       "Attack": 89,
       "Defense": 71,
@@ -16327,7 +16327,7 @@
       "Steel",
       "Flying"
     ],
-    "base": {
+    "stats": {
       "HP": 97,
       "Attack": 101,
       "Defense": 103,
@@ -16348,7 +16348,7 @@
       "Grass",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 59,
       "Attack": 181,
       "Defense": 131,
@@ -16369,7 +16369,7 @@
       "Dark",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 223,
       "Attack": 101,
       "Defense": 53,
@@ -16389,7 +16389,7 @@
     "type": [
       "Psychic"
     ],
-    "base": {
+    "stats": {
       "HP": 97,
       "Attack": 107,
       "Defense": 101,
@@ -16410,7 +16410,7 @@
       "Steel",
       "Fairy"
     ],
-    "base": {
+    "stats": {
       "HP": 80,
       "Attack": 95,
       "Defense": 115,
@@ -16431,7 +16431,7 @@
       "Fighting",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 90,
       "Attack": 125,
       "Defense": 80,
@@ -16451,7 +16451,7 @@
     "type": [
       "Poison"
     ],
-    "base": {
+    "stats": {
       "HP": 67,
       "Attack": 73,
       "Defense": 67,
@@ -16472,7 +16472,7 @@
       "Poison",
       "Dragon"
     ],
-    "base": {
+    "stats": {
       "HP": 73,
       "Attack": 73,
       "Defense": 73,
@@ -16493,7 +16493,7 @@
       "Rock",
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 61,
       "Attack": 131,
       "Defense": 211,
@@ -16514,7 +16514,7 @@
       "Fire",
       "Ghost"
     ],
-    "base": {
+    "stats": {
       "HP": 53,
       "Attack": 127,
       "Defense": 53,
@@ -16534,7 +16534,7 @@
     "type": [
       "Electric"
     ],
-    "base": {
+    "stats": {
       "HP": 88,
       "Attack": 112,
       "Defense": 75,
@@ -16554,7 +16554,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 46,
       "Attack": 65,
       "Defense": 65,
@@ -16574,7 +16574,7 @@
     "type": [
       "Steel"
     ],
-    "base": {
+    "stats": {
       "HP": 135,
       "Attack": 143,
       "Defense": 143,
