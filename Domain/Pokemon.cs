@@ -13,7 +13,7 @@ public class Pokemon
   [JsonPropertyName("type")]
   public List<string> Type { get; set; }
 
-  [JsonPropertyName("base")]
+  [JsonPropertyName("stats")]
   public Dictionary<string, int> Stats { get; set; }
 
   public Pokemon(int id, Dictionary<string,string> name, List<string> type, Dictionary<string,int> stats)
