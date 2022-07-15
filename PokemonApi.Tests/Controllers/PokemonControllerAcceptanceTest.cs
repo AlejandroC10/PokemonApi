@@ -60,4 +60,15 @@ public class PokemonControllerAcceptanceTestShould: IClassFixture<CustomWepAppli
 
         foundedPokemon.Count.Should().Be(43);
     }
+    
+    
+    [Fact]
+    public async Task ShowPokemones()
+    {
+        var response = await client.GetAsync("/Pokemon");
+        var responseContent = await response.Content.ReadAsStringAsync();
+        var foundedPokemon = JsonConvert.DeserializeObject<List<Pokemon>>(responseContent);
+
+        foundedPokemon.Count.Should().Be(809);
+    }
 }
