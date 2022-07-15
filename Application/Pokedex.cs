@@ -30,7 +30,7 @@ public class Pokedex
         
         foreach (var pokemon in pokemonList)
         {
-            if (pokemon.Type.Contains("Ghost"))
+            if (pokemon.Type.Contains(type))
             {
                 matchPokemon.Add(pokemon);
             }   

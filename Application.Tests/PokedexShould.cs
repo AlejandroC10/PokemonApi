@@ -119,4 +119,13 @@ public class PokedexShould
         
         actualPokemon.Count.Should().Be(43);
     }
+    
+    [Fact]
+    public void ReturnPokemonListFromTypeGrass()
+    {
+        var pokedex = new Pokedex();
+        var actualPokemon = pokedex.FindByType("Grass");
+
+        actualPokemon.Count.Should().Be(97);
+    }
 }
