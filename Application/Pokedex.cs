@@ -25,7 +25,17 @@ public class Pokedex
     {
         var pokemonDb = new PokemonDb();
         var pokemonList = pokemonDb.ReadPokemon();
+
+        var matchPokemon = new List<Pokemon>();
         
-        return pokemonList;
+        foreach (var pokemon in pokemonList)
+        {
+            if (pokemon.Type.Contains("Ghost"))
+            {
+                matchPokemon.Add(pokemon);
+            }   
+        }
+        
+        return matchPokemon;
     }
 }
