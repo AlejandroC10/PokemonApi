@@ -11,7 +11,7 @@ public class PokedexShould
     public void ReturnPokemonWithId1()
     {
         var pokedex = new Pokedex();
-        var expectedPokemon = pokedex.FindPokemonById(1);
+        var actualPokemon = pokedex.FindPokemonById(1);
         
         var fakeNames = new Dictionary<string, string>
         {
@@ -36,14 +36,15 @@ public class PokedexShould
         };
         var fakePokemon = new Pokemon(1, fakeNames, fakeTypes, fakeStats);
 
-        expectedPokemon.Should().BeEquivalentTo(fakePokemon);
+        actualPokemon.Should().BeEquivalentTo(fakePokemon);
     }
     
     [Fact]
     public void ReturnPokemonWithId2()
     {
         var pokedex = new Pokedex();
-        var expectedPokemon = pokedex.FindPokemonById(2);
+        var actualPokemon = pokedex.FindPokemonById(2);
+        
         var fakeNames = new Dictionary<string, string>
         {
             {"english", "Ivysaur"},
@@ -67,14 +68,14 @@ public class PokedexShould
         };
         var fakePokemon = new Pokemon(2, fakeNames, fakeTypes, fakeStats);
 
-        expectedPokemon.Should().BeEquivalentTo(fakePokemon);
+        actualPokemon.Should().BeEquivalentTo(fakePokemon);
     }
     
     [Fact]
     public void ReturnPokemonWithId3()
     {
         var pokedex = new Pokedex();
-        var expectedPokemon = pokedex.FindPokemonById(3);
+        var actualPokemon = pokedex.FindPokemonById(3);
 
         var fakeNames = new Dictionary<string, string>
         {
@@ -99,33 +100,26 @@ public class PokedexShould
         };
         var fakePokemon = new Pokemon(3, fakeNames, fakeTypes, fakeStats);
 
-        expectedPokemon.Should().BeEquivalentTo(fakePokemon);
+        actualPokemon.Should().BeEquivalentTo(fakePokemon);
     }
 
     [Fact]
     public void ReturnPokemonListFromType()
     {
         var pokedex = new Pokedex();
-        var expectedPokemon = pokedex.FindByType("Grass");
-
-        expectedPokemon.Should().NotBeEmpty();
-    }
-    
-    [Fact]
-    public void ReturnPokemonListFromTypeGhost()
-    {
-        var pokedex = new Pokedex();
-        var actualPokemon = pokedex.FindByType("Ghost");
-        
-        actualPokemon.Count.Should().Be(43);
-    }
-    
-    [Fact]
-    public void ReturnPokemonListFromTypeGrass()
-    {
-        var pokedex = new Pokedex();
         var actualPokemon = pokedex.FindByType("Grass");
 
-        actualPokemon.Count.Should().Be(97);
+        actualPokemon.Should().NotBeEmpty();
+    }
+
+    [Theory]
+    [InlineData("Ghost", 43)]
+    [InlineData("Grass", 97)]
+    public void ReturnPokemonListFromSpecificType(string type, int total)
+    {
+        var pokedex = new Pokedex();
+        var actualPokemon = pokedex.FindByType(type);
+
+        actualPokemon.Count.Should().Be(total);
     }
 }
