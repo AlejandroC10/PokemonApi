@@ -5,7 +5,10 @@ namespace Application;
 
 public class Pokedex
 {
-    
+    /*
+    private static PokemonDb pokemonDb;
+    private List<Pokemon> pokemonList = pokemonDb.ReadPokemon();
+    */
     public Pokemon FindPokemonById(int id)
     {
         var pokemonDb = new PokemonDb();

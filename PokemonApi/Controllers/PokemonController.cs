@@ -24,4 +24,11 @@ public class PokemonController : ControllerBase
         var pokedex = new Pokedex();
         return pokedex.FindByType(type);
     }
+    
+    [HttpGet]
+    public List<Pokemon> Get()
+    {
+        var pokedex = new Pokedex();
+        return pokedex.GetAll();
+    }
 }
