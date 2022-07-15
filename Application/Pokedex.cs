@@ -5,6 +5,7 @@ namespace Application;
 
 public class Pokedex
 {
+    
     public Pokemon FindPokemonById(int id)
     {
         var pokemonDb = new PokemonDb();
@@ -41,6 +42,8 @@ public class Pokedex
 
     public List<Pokemon> GetAll()
     {
-        return null;
+        var pokemonDb = new PokemonDb();
+        var pokemonList = pokemonDb.ReadPokemon();
+        return pokemonList;
     }
 }
