@@ -50,4 +50,14 @@ public class PokemonControllerAcceptanceTestShould: IClassFixture<CustomWepAppli
 
         foundedPokemon.Should().BeEquivalentTo(fakePokemon);
     }
+    
+    [Fact]
+    public async Task FindPokemonByCategory()
+    {
+        var response = await client.GetAsync("/Pokemon/Type/Ghost");
+        var responseContent = await response.Content.ReadAsStringAsync();
+        var foundedPokemon = JsonConvert.DeserializeObject<List<Pokemon>>(responseContent);
+
+        foundedPokemon.Count.Should().Be(43);
+    }
 }

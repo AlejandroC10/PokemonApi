@@ -1,4 +1,6 @@
 {
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Application",
   "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\Domain",
+  "JsonData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\JsonData",
   "PokemonApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Users\\cmedina\\RiderProjects\\HazteConTodos\\PokemonApi"
 }

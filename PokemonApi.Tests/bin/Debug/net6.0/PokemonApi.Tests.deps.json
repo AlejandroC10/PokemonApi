@@ -1812,6 +1812,18 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
+      "Application/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "JsonData": "1.0.0"
+        },
+        "runtime": {
+          "Application.dll": {}
+        },
+        "compile": {
+          "Application.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "runtime": {
           "Domain.dll": {}
@@ -1820,8 +1832,21 @@
           "Domain.dll": {}
         }
       },
+      "JsonData/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "JsonData.dll": {}
+        },
+        "compile": {
+          "JsonData.dll": {}
+        }
+      },
       "PokemonApi/1.0.0": {
         "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -4506,7 +4531,17 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JsonData/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
