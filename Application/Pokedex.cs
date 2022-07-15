@@ -23,6 +23,9 @@ public class Pokedex
 
     public List<Pokemon> FindByType(string type)
     {
-        return null;
+        var pokemonDb = new PokemonDb();
+        var pokemonList = pokemonDb.ReadPokemon();
+        
+        return pokemonList;
     }
 }
