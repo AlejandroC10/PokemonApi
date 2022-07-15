@@ -101,4 +101,13 @@ public class ApplicationShould
 
         expectedPokemon.Should().BeEquivalentTo(fakePokemon);
     }
+
+    [Fact]
+    public void ReturnPokemonListFromType()
+    {
+        var pokedex = new Pokedex();
+        var expectedPokemon = pokedex.FindByType("Ghost");
+
+        expectedPokemon.Should().NotBeEmpty();
+    }
 }

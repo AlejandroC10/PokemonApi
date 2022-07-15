@@ -9,7 +9,7 @@ namespace PokemonApi.Controllers;
 public class PokemonController : ControllerBase
 {
     
-    [HttpGet(Name = "GetPokemon")]
+    [HttpGet]
     [Route("{id}")]
     public Pokemon Get(int id)
     {

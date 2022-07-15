@@ -4,5 +4,12 @@
     &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemon&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::8EEAE87A-712D-4641-8F72-826187A0F142::net6.0::PokemonApiTests.Controllers.PokemonControllerAcceptanceTestShould.FindPokemonById&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemonWithId3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8EEAE87A-712D-4641-8F72-826187A0F142::net6.0::PokemonApiTests.Controllers.PokemonControllerAcceptanceTestShould.FindPokemonByCategory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B629F74C-FAC4-4772-8C86-29C9C3A53B9C::net6.0::Application.Test.ApplicationShould.ReturnPokemonListFromType&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=603290d7_002Defc1_002D4ad8_002D846b_002D665e3394977b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindPokemonByCategory" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8EEAE87A-712D-4641-8F72-826187A0F142::net6.0::PokemonApiTests.Controllers.PokemonControllerAcceptanceTestShould.FindPokemonByCategory&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

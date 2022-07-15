@@ -20,4 +20,9 @@ public class Pokedex
 
         return null;
     }
+
+    public List<Pokemon> FindByType(string type)
+    {
+        return null;
+    }
 }
