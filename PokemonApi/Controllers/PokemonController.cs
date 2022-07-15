@@ -16,4 +16,12 @@ public class PokemonController : ControllerBase
         var pokedex = new Pokedex();
         return pokedex.FindPokemonById(id);
     }
+    
+    [HttpGet]
+    [Route("Type/{type}")]
+    public List<Pokemon> Get(string type)
+    {
+        var pokedex = new Pokedex();
+        return pokedex.FindByType(type);
+    }
 }
