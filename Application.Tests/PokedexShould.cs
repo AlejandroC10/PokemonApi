@@ -106,8 +106,17 @@ public class PokedexShould
     public void ReturnPokemonListFromType()
     {
         var pokedex = new Pokedex();
-        var expectedPokemon = pokedex.FindByType("Ghost");
+        var expectedPokemon = pokedex.FindByType("Grass");
 
         expectedPokemon.Should().NotBeEmpty();
+    }
+    
+    [Fact]
+    public void ReturnPokemonListFromTypeGhost()
+    {
+        var pokedex = new Pokedex();
+        var actualPokemon = pokedex.FindByType("Ghost");
+        
+        actualPokemon.Count.Should().Be(43);
     }
 }
