@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Application.Test;
 
-public class ApplicationShould
+public class PokedexShould
 {
     [Fact]
     public void ReturnPokemonWithId1()
